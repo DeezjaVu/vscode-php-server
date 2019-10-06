@@ -103,7 +103,7 @@ Now let's add some magic to our project by using VSCode `Tasks`.
   }
   ```
 
-  > Note that the command begins with `php`. For this to work, the php executable needs to be avavaileble in the System Path (Environment Variables). To determine if that is the case, open a terminal and enter the following:
+  > Note that the command begins with `php`. For this to work, the php executable needs to be available in the System Path (Environment Variables). To determine if that is the case, open a terminal and enter the following:
 
   ```bash
   php -version
